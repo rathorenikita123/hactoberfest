@@ -1,2 +1,2 @@
-# hactoberfest
-this repo is for hactober
+# Hactoberfest
+This repo is for hacktober
